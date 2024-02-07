@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Windowslover1234
 - 👀 I’m interested in gaming and coding.
 - 🌱 I’m currently learning how to maths.
-- 💞️ I’m looking to collaborate with anyone that would need help
+- 💞️ I’m looking to collaborate with any simple HTML project
 - 📫 How to reach me windowslover1234.github.io
 - 😄 Pronouns: Don't Care
 - ⚡ Fun fact: I ate a cheeseburger for breakfast.
