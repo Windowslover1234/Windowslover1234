@@ -1,10 +1,9 @@
 - 👋 Hi, I’m @Windowslover1234
-- 👀 I’m interested in gaming and coding.
-- 🎮 I want to get the game "The Adventures of Square" working on the web
-- 🌱 I’m currently learning how to maths.
-- 💞️ I’m looking to collaborate with any simple HTML project
-- 📫 How to reach me: windowslover1234.github.io
-- 😄 Pronouns: Don't Care
+- 👀 I’m interested in gaming, coding, and voxel building.
+- 🎮 I want to make voxels for Doom mods.
+- 🌱 I’m currently learning how to Algebra.
+- 💞️ I’m looking to collaborate with some voxel building.
+- 📫 How to reach me: windowslover1234@gmail.com
 - ⚡ Fun fact: I ate a cheeseburger for breakfast.
 <!---
 Windowslover1234/Windowslover1234 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
