@@ -3,7 +3,7 @@
 - 🎮 I want to make voxels for Doom mods.
 - 🌱 I’m currently learning how to Algebra.
 - 💞️ I’m looking to collaborate with some voxel building.
-- 📫 How to reach me: windowslover1234@gmail.com
+- 📫 How to reach me: goldenyoshi90@gmail.com
 - ⚡ Fun fact: I ate a cheeseburger for breakfast.
 <!---
 Windowslover1234/Windowslover1234 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
